@@ -1,3 +1,7 @@
+/*
+Covid 19 Data Exploration
+*/
+
 select *
 from covid_deaths
 order by 3,4;
