@@ -3,7 +3,7 @@ from covid_deaths
 order by 3,4;
 
 
--- select *
+select *
 from covid_vaccination
 order by 3,4
 
